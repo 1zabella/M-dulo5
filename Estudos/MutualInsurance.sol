@@ -76,4 +76,5 @@ contract MutualInsurance {
         return indemnityRequests[requestor];
     }
 
+// teste
 }
